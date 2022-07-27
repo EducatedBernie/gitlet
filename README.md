@@ -1,1 +1,1 @@
-# gitlet
+# simple git
